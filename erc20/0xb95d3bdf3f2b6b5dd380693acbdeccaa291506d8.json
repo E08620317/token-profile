@@ -1,0 +1,18 @@
+{
+  "symbol": "GTR",
+  "address": "0xb95d3bdf3f2b6b5dd380693acbdeccaa291506d8",
+  "overview":{
+        "en": "GTR is the platform currency of the Mcoin trading platform. Gtrhz.com's premier high-quality digital asset trading platform, for the first time, introduces AI technology into digital asset trading, creating a smart cloud system, innovatively realizing transaction security, platform stability, and operational convenience. It is recognized as a global high-quality intelligence. Digital Asset Trading Desk.",
+        "zh": "GTR是Mcoin交易平台的平台币。gtrhz.com首屈一指的优质数字资产交易平台，首次将AI技术引入数字资产交易，独创智能云系统，创新地实现了交易的安全性、平台的稳定性、操作的便利性，是公认的全球优质智能数字资产交易台。"
+  },
+  "email": "15240335525@163.com",
+  "website": "http://www.gtrhz.com/",
+  "whitepaper": "http://www.gtrhz.com/exitfile/GTR.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-02-27",
+  "initial_price":{
+        "ETH":"0.0011 ETH"
+  },
+  "links": {
+  }
+}
